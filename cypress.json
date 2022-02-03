@@ -1,0 +1,4 @@
+{
+    "testFiles": "**/*.feature",
+    "baseUrl":"https://nextgenbo.demo.devtls.net"
+}
